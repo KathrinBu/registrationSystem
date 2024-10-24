@@ -1,0 +1,5 @@
+databaseChangeLog:
+  - include:
+      file: db/v1/create_user_table.yaml
+  - include:
+      file: db/v1/create_request_table.yaml
